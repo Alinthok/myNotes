@@ -6,6 +6,6 @@ Operating System (Sistem Operasi) adalah part dari sistem komputer yang tujuanny
 
 ## Key Aspect Of Operating System
 
-- Interrupts
+### Interrupts
 
 Interrupt adalah fitur dari CPU yang bisa menyetop apa saya yang dilakukan oleh CPU sekarang untuk menjalankan suatu kode/process dan melanjutkan kerja CPU ke progam yang distop tadi.
