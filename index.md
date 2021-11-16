@@ -1,3 +1,7 @@
 # Ini Notes Saya
 
-Test github
+- [Sistem Operasi](os/os.md)
+- StatProb
+- Aljabar Linear
+- Kalkulus 2
+- BasDat

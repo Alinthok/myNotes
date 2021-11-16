@@ -1,3 +1,3 @@
-## Ini notes saya
+# Ini notes saya
 
 Notes saya ditaruh di github biar gampang di edit.
