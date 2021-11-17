@@ -4,6 +4,10 @@
 
 Operating System (Sistem Operasi) adalah part dari sistem komputer yang tujuannya untuk mengontrol cara hardware bekerja dan menampilkannya ke user.
 
+![img1](img/img1.png)
+
+**img1** komponen di sistem komputer.
+
 ## Key Aspect Of Operating System
 
 ### Interrupts
