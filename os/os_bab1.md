@@ -6,13 +6,17 @@ Operating System (Sistem Operasi) adalah part dari sistem komputer yang tujuanny
 
 ![img1](img/img1.png)
 
-**img1** komponen di sistem komputer.
+- **img1** komponen di sistem komputer.
 
 ## Key Aspect Of Operating System
 
 ### Interrupts
 
 Interrupt adalah fitur dari CPU yang bisa menyetop apa saya yang dilakukan oleh CPU sekarang untuk menjalankan suatu kode/process dan melanjutkan kerja CPU ke progam yang distop tadi. Interrupt ini biasanya digunakan untuk Timer dan I/O devices.
+
+![img2](img/img2.png)
+
+- **img2** timeline program with interrupt.
 
 ### Storage Structure
 
@@ -26,6 +30,10 @@ Non-volatile memory adalah storage device yang datanya tidak hilang ketika kompu
 #### General Storage Structure
 
 Pada sistem komputer yang biasanya program komputer yang sedang di jalankan ditaruh di volatile memory dan program yang disimpan berupa file ditaruh di non-volatile memory dan komputer mempunyai memory khusus untuk menyimpan bootstrap program (program untuk menjalankan OS) yang dinamakan EEPROM.
+
+![img3](img/img3.png)
+
+- **img3** Computer storages.
 
 ### I/O Structure
 
