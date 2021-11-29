@@ -45,5 +45,3 @@ Komputer juga harus bisa berinteraksi dengan I/O device. I/O device berinteraksi
 ## Common OS Operations
 
 ### Multiprogramming and Multitasking
-
-
