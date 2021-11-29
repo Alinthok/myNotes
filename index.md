@@ -2,6 +2,6 @@
 
 - [Sistem Operasi](os/os.md)
 - StatProb
-- Aljabar Linear
+- [Aljabar Linear](aljabar_linear/aljabar_linear.md)
 - Kalkulus 2
 - BasDat
