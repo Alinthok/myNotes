@@ -1,3 +1,5 @@
+{% include ../mathjax.html %}
+
 # Bab 6 - Ruang Hasil Kali Dalam
 
 ## Hasil Kali Dalam
