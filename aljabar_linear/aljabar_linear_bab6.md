@@ -1,3 +1,7 @@
+---
+usemathjax: true
+---
+
 {% include ../mathjax.html %}
 
 # Bab 6 - Ruang Hasil Kali Dalam
